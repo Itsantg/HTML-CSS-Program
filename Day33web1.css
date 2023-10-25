@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(123 234 123 / 28%);
+  }
+  header {
+    height: 650px;
+    width: 100%;
+    background-image: url("C:/Users/Tejas Gaikwad/Downloads/pexels-edward-jenner-4252521.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+  }
+
+  #t2 {
+    box-shadow: 8px 10px 20px 8px;
+  width: 177px;
+  height: 205px;
+  border-radius: 5px;
+  border: 2px solid black;
+  transform: translate(740px, 293px);
+  padding: 10px;
+  background-color: #007eff4a;
+  }
+
+  #h1 {
+    font-size: 49px;
+  color: #2209f7;
+  transform: translate(7px, -34px);
+  font-family: 'Young Serif', serif;
+  }
+
+  #tg {
+    margin: -39px 1px 4px 39px;
+  font-size: 17px;
+  border: 1px solid black;
+  }
+
+  #h2{
+  font-size: 32px;
+  transform: translate(362px, -139px);
+  color: white;
+  font-family: 'Young Serif', serif;
+  }
+  #h2:first-letter{
+    font-size: 30px;
+    color: aliceblue;
+  }
+
+  #ts {
+    height: 482px;
+  }
+  .midcontent{
+    height: 75px;
+    border: 1px solid black;
+    background-color: rgb(123 234 123 / 28%);
+  }
+  .alt{
+    margin-top:5px ;
+  font-size: small;
+  
+  }
+  #rw{
+    padding: 0px;
+  text-align: center;
+  margin-top: -55px;
+  transform: translate(25px, 72px);
+  width: 235px;
+  font-family: fangsong;
+  border: 2px solid black;
+  background-color: #ffdc7fed;
+  border-radius: 25px;
+  }
+  .card{
+    border: 2px solid black;
+    transform: scale(0.7);
+  }
+  .nextcontent{
+    transition: all 3;
+  }
+  .card.hover{
+    transform: scale(1.2);
+    box-shadow: 8px 10px 20px 8px;
+  }
