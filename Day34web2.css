@@ -1,0 +1,161 @@
+.ftpg {
+    border: 2px solid black;
+    height: 740px;
+    background: url("C:/Users/Tejas Gaikwad/Downloads/pexels-asad-photo-maldives-1450360.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 740px;
+}
+
+.nav {
+    background-color: #074188;
+    width: 100%;
+    height: 70px;
+    position: sticky;
+    top: -100px;
+
+}
+
+.nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav li a:hover {
+    text-decoration: underline;
+
+}
+
+.nav li {
+    font-family: fangsong;
+    color: white;
+    font-size: 22px;
+    display: inline-block;
+    margin-left: 46px;
+    transform: translate(650px, 22px);
+}
+
+.nav img {
+    transform: translate(-635px, 10px);
+}
+
+.text h1 {
+    font-family: 'Young Serif', serif;
+}
+
+.text {
+    margin-left: 15px;
+
+}
+
+.form {
+    padding: 22px;
+    border: 2px solid black;
+    width: 318px;
+    height: 332px;
+    margin-left: 162px;
+    background-color: #074188;
+    border-radius: 5px;
+}
+
+.form label {
+    color: white;
+}
+
+.content {
+    margin-top: 158px;
+}
+
+.sdpg h1 {
+    margin-top: 16px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Lobster', cursive;
+    color: #ee160c;
+}
+
+.tdpg h1 {
+    margin-top: 49px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Lobster', cursive;
+    color: #ee160c;
+}
+
+.card {
+    margin-left: 65px;
+    margin-top: 60px;
+    transition: all 2s;
+    padding: 0px;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 0px 0px 26px 9px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.sm {
+    height: 644px;
+}
+
+.tdpg h2 {
+    margin: -8px 39px 31px 295px;
+    font-size: 46px;
+    color: #8309f1;
+    font-family: 'DM Serif Display', serif;
+}
+
+.tdpg h2::first-letter {
+    font-size: 100px;
+    margin-top: 30px;
+    font-family: 'Crimson Text', serif;
+    color: black;
+}
+
+#bt {
+    transform: translate(541px, 14px);
+}
+
+.ft {
+    width: 100%;
+    height: 250px;
+    background-color: #074188;
+}
+
+.pg {
+    height: 550px;
+}
+
+.pg h2 {
+    font-size: 39px;
+    transform: translate(400px, 104px);
+    font-family: 'DM Serif Display', serif;
+}
+
+#btn {
+    transform: translate(610px, 119px);
+}
+
+.ft img {
+    transform: translate(315px, 134px);
+}
+
+.ft ol li {
+    list-style-type: none;
+    color: white;
+    transform: translate(499px, 41px);
+}
+
+.ul ul li {
+    list-style-type: none;
+    color: white;
+    transform: translate(659px, -73px);
+}
+
+#btn1 {
+    border-radius: 37px;
+    transform: translate(609px, 19px);
+    height: 37px;
+    width: 89px;
+}
